@@ -1,0 +1,25 @@
+{
+  "Parameters": {
+    "DeployEnvironment": "dev",
+    "AppName": "test_project2",
+    "CostCenter": "0123456",
+    "CostCenterApprover": "C198353",
+    "SystemOwner": "C198353",
+    "SystemCustodian": "C198353",
+    "PrimaryItContact": "C198353",
+    "Level1BusinessArea": "GIS",
+    "DataClassification": "Green",
+    "Hipaa": "No"
+  },
+  "Tags": {
+    "CostCenter": "0123456",
+    "CostCenterApprover": "C198353",
+    "SystemOwner": "C198353",
+    "SystemCustodian": "C198353",
+    "PrimaryItContact": "C198353",
+    "Level1BusinessArea": "GIS",
+    "DataClassification": "Green",
+    "Hipaa": "No"
+  },
+  "StackPolicy": {}
+}

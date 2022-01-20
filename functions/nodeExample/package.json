@@ -1,0 +1,22 @@
+{
+  "name": "aws-sam-lambda-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "lint": "npx eslint *.js tests/"
+  },
+  "dependencies": {
+    "voca": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "jest": "^24.1.0"
+  },
+  "engines": {
+    "node": "12"
+  }
+}
